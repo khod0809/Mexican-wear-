@@ -1,0 +1,34 @@
+MEXICAN WEAR — WEBSITE HANDOVER
+================================
+
+This is the exported website source code for mexican wear. It includes the React/TanStack website, the product images, the cart, WhatsApp checkout, and the Supabase connection settings present in the original export.
+
+IMPORTANT
+---------
+This ZIP is the website project files, not a published website. A public website address cannot be created from this file alone: it must be deployed through a hosting account. No hosting account or domain was connected as part of this handover.
+
+WHAT IS INCLUDED
+----------------
+- Storefront source and styling
+- Product image assets
+- Shopping cart and WhatsApp order link
+- Admin route and site settings code
+- Supabase connection values from the original export
+
+BEFORE GOING LIVE
+-----------------
+1. Create/sign in to a hosting account that supports this TanStack Start/Nitro project.
+2. Upload the project to a private GitHub repository, or import the ZIP if your chosen host supports ZIP imports.
+3. Connect the repository to a compatible host and configure the build using the project's package.json and Vite/Nitro configuration.
+4. Test the storefront, product data, admin route, and WhatsApp checkout on the hosted preview before sharing it publicly.
+5. Add a custom domain later if desired. A hosting subdomain can be used first.
+
+BACKEND NOTE
+------------
+The project uses Supabase for product and site settings. The exported project contains the public/publishable client key, which is intended for client use; do not add any Supabase service-role key to this project or share one publicly. The Supabase database and its access policies must remain available for dynamic product/settings features to work.
+
+WHATSAPP NOTE
+-------------
+The code currently has a default WhatsApp order number configured in src/lib/site-settings.ts. Confirm that it is the correct business number before publishing.
+
+NO ACCOUNT PASSWORDS ARE INCLUDED OR NEEDED IN THIS FILE.

@@ -1,0 +1,5 @@
+- [x] Add saved owner controls for page text, images, colours, fonts, and section visibility.
+- [x] Connect saved settings to the storefront, retaining original content and layout.
+- [x] Verify owner save and fresh public readback, anonymous write rejection, tests, and mobile editor layout.
+- [x] Add a contact & socials section with empty Facebook, Instagram and WhatsApp slots the owner fills in later.
+- [x] Cart checkout that opens the business WhatsApp with the completed cart; no website payment.
